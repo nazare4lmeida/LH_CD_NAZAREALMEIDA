@@ -27,12 +27,12 @@ Certifique-se de ter o Python com a versão mais recente, instalado.
 
 1.  Clone este repositório para o seu ambiente local:
     ```bash
-    git clone https://github.com/nazare4lmeida/LH_CD_NAZAREALMEIDA.git
+    git clone https://github.com/nazare4lmeida/desafio-datascience.git
     ```
 
 2.  Certifique-se de estar no diretório do projeto:
     ```bash
-    LH_CD_NAZAREALMEIDA
+    DESAFIO-DATASCIENCE
     ```
 
 3.  Instale todas as bibliotecas necessárias listadas no `requirements.txt`:
